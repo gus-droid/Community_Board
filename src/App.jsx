@@ -61,6 +61,12 @@ const App = () => {
           votes={2}
           link="https://www.chess.com/openings/Pirc-Defense"
         />
+        <Card
+          image="https://d2rnvyacaewvx6.cloudfront.net/images/articles/ScandinavianDefense/image14.png"
+          name="Scandinavian Defense"
+          votes={8}
+          link="https://www.chess.com/openings/Scandinavian-Defense"
+        />
       </div>
     </div>
   );
