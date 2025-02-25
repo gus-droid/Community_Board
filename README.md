@@ -1,4 +1,4 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *Chess Openings*
 
 Submitted by: **Gustavo Chavez**
 
@@ -18,18 +18,14 @@ The following **optional** features are implemented:
 - [X] Buttons or links to a related resources are on each card component
 - [X] The site is responsive for both desktop and mobile formats
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://www.loom.com/share/9f9330c4aa8f4815878a3f4720856693?sid=7631417e-d4ae-4f63-be11-5a3dd1c66fa5' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![Video Walkthrough](https://www.loom.com/share/9f9330c4aa8f4815878a3f4720856693?sid=7631417e-d4ae-4f63-be11-5a3dd1c66fa5)](https://www.loom.com/share/9f9330c4aa8f4815878a3f4720856693?sid=7631417e-d4ae-4f63-be11-5a3dd1c66fa5)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Loom  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -37,7 +33,7 @@ GIF created with ...
 
 ## Notes
 
-Applying the CSS to the cards and passing prompts at first were pretty difficult.
+At first, applying CSS to the cards and passing props was pretty tough. I had trouble with the layout and making the cards look good on different screen sizes. I spent some time experimenting with flexbox and grid to get it right. Passing props between components also took a bit of practice, but I learned how to manage state and props better as I went. Overall, this project helped me improve my CSS skills and my understanding of how to work with components in frontend development.
 
 ## License
 
